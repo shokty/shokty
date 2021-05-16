@@ -32,7 +32,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=shokty&show_icons=true&hide_border=true" />
+  <img align="left" alt="shokty GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=shokty&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -40,7 +40,7 @@
   <summary>:zap: Most Used Languages</summary>
   
 <!--START_SECTION:activity-->
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokty&layout=compact" />
+ <img align="left" alt="shokty GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokty&layout=compact" />
 <!--END_SECTION:activity-->
 
 </details>
