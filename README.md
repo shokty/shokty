@@ -1,6 +1,6 @@
 ### Hi there, I'm Sahar shokty 👋
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play computer games and play guitar
 
