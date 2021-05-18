@@ -35,10 +35,11 @@
   <img align="left" alt="shokty GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=shokty&show_icons=true&hide_border=true" />
 
 </details>
-
+<br />
+<br />
 <details>
-  <summary>:zap: Weekly wakatime</summary>
-  
+  <summary>:zap: Wakatime</summary>
+ 
 <!--START_SECTION:activity-->
  <img align="left" alt="shokty GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=shokty&layout=compact" />
 <!--END_SECTION:activity-->
