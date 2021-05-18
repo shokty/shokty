@@ -37,10 +37,10 @@
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:zap: Weekly wakatime</summary>
   
 <!--START_SECTION:activity-->
- <img align="left" alt="shokty GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokty&layout=compact" />
+ <img align="left" alt="shokty GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=shokty" />
 <!--END_SECTION:activity-->
 
 </details>
