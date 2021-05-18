@@ -40,7 +40,7 @@
   <summary>:zap: Weekly wakatime</summary>
   
 <!--START_SECTION:activity-->
- <img align="left" alt="shokty GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=shokty" />
+ <img align="left" alt="shokty GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=shokty&layout=compact" />
 <!--END_SECTION:activity-->
 
 </details>
