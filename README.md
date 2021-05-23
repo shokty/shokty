@@ -13,7 +13,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="intellij" width="26px" src="https://e1.pngegg.com/pngimages/119/386/png-clipart-clay-os-6-a-macos-icon-intellij-idea-ij-logo.png" />
+<img align="left" alt="intellij" width="26px" src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" />
 <img align="left" alt="python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" >
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" >
 <img align="left" alt="C" width="26px" src="https://icon-library.com/images/c-language-icon/c-language-icon-20.jpg" >
