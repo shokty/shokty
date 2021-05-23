@@ -15,7 +15,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" >
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" >
-<img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png" >
+<img align="left" alt="C" width="26px" src="https://1.bp.blogspot.com/-puJcnwUQ7lw/WJb4HpFc50I/AAAAAAAAH7M/MU6omuLdsBsEYwvghF6ZV_COIT4yg_ABACLcB/s280/C%2Blogo%2Bsmall.png" >
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" >
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" >
 <img align="left" alt="Typescript" width="26px" src="https://miro.medium.com/max/300/1*RmhCkNR30Ecf6xox3GrOlw.png" >
