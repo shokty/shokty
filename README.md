@@ -36,13 +36,4 @@
 
 </details>
 
-<details>
-  <summary>:zap: Wakatime</summary>
- 
-<!--START_SECTION:activity-->
- <img align="left" alt="shokty GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=shokty" />
-<!--END_SECTION:activity-->
-
-</details>
-
 [linkedin]: https://www.linkedin.com/in/sahar-shokty-6b6874188/
